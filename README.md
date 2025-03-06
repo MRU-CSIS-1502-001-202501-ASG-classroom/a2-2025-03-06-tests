@@ -10,3 +10,4 @@ Tests will be released on this schedule:
 ## instructions
 
 1. Replace the `src/test` directory you currently have in your project with the one present in this repo.
+2. Add the `res/marking` directory in this repo to the `res` directory in your project.
